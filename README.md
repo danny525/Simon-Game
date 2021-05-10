@@ -13,9 +13,13 @@ button presses are detected using edge capture and text is drawn using the chara
 Game in action, curtesy of https://cpulator.01xz.net/
 
 **Main Menu Options (Inside the game):**
+
 **Start:** Start the game
+
 **Game mode:** Change the game mode
+
 **Instructions:** To understand how to play
+
 **Quit:** Clears the pixel and character buffers and displays a black screen on an infinite while loop
 
 **Game Instructions:**
