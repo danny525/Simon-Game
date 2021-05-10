@@ -1,4 +1,4 @@
-# Simon-Game by Danny Zhang & Saskia George
+# Simon-Game
 
 **General Information:**
 The game is completely controlled by the KEY[3-0] inputs. As soon as the program is compiled,
