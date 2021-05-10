@@ -6,7 +6,9 @@ a start menu with 4 drawn buttons to choose from are drawn. Each button is label
 corresponding KEY button and can be accessed by their corresponding button releases. KEY
 button presses are detected using edge capture and text is drawn using the character buffer.
 
+
 ![Simon-Game](Game_Demo.gif)
+Game in action, curtesy of https://cpulator.01xz.net/
 
 **Main Menu Options (Inside the game):**
 **Start:** Start the game
